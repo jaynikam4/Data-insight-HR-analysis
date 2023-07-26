@@ -1,4 +1,4 @@
-# data-insight HR Analysis Dashboard: Powering Data-Driven HR Decisions
+# HR Analysis Dashboard: Powering Data-Driven HR Decisions
 # Introduction
 Welcome to the HR Analysis Dashboard project in Power BI! 
 This repository contains the resources and files for a visually engaging and insightful dashboard that analyzes 
